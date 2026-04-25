@@ -1,6 +1,4 @@
-"""distutils.command.install
 
-Implements the Distutils 'install' command."""
 
 import sys
 import sysconfig
